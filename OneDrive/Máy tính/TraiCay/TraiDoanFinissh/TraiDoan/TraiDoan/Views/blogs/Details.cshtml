@@ -1,0 +1,107 @@
+﻿@model TraiDoan.Models.blog
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Adminitrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>blog</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.blogcate.Nameblogcate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.blogcate.Nameblogcate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sortcontent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sortcontent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.content)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.content)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.comment)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.comment)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.author)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.author)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.like)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.like)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateblog)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateblog)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.img1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.img1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.img2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.img2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.img3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.img3)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IDblog }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,60 @@
+﻿
+<!DOCTYPE html>
+@{
+    Layout = "~/Views/Shared/_layoutchung.cshtml";
+}
+<section class="product spad">
+    <div class="container" >
+        <div class="row">
+            <div class="col-lg-3 col-md-5">
+                <div class="sidebar">
+                    <div class="sidebar__item">
+                        <h4>Department</h4>
+                        <ul>
+                            @Html.Action("categoryPartial", "Home")
+                        </ul>
+                    </div>
+                    <div class="sidebar__item">
+                        @Html.Action("testPage", "Home")
+                    </div>
+                    @using (Html.BeginForm("searchproduct", "Home", FormMethod.Get))
+                    {
+                        <div class="sidebar__item">
+                            <h4>Price</h4>
+                            <div class="price-range-wrap">
+                                <div class="price-range ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content"
+                                     data-min="10" data-max="100">
+                                    <div class="ui-slider-range ui-corner-all ui-widget-header"></div>
+                                    <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+                                    <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+                                </div>
+                                <div class="range-slider">
+                                    <div class="price-input">
+                                        <span style="color:#dd2222;font-weight:bold;">$</span> @*<input id="minamount" name="minamount" type="text" >*@  @Html.TextBox("minamount", ViewBag.Mina as string)
+                                        <span style="color:#dd2222;font-weight:bold;">$</span> @*<input id="maxamount" name="maxamount" type="text" >*@  @Html.TextBox("maxamount", ViewBag.Maxa as string)
+                                        <input type="text" id="SearchString" name="SearchString" value="@ViewBag.CurrentFilter" hidden />
+                                        <input type="submit" style="max-width: 100%;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                    <div class="sidebar__item">
+                        <div class="latest-product__text">
+                            <h4>Ngẫu Nhiên</h4>
+                            <div class="latest-product__slider owl-carousel">
+                                @Html.Action("NewProduct", "Home")
+                                @Html.Action("HotProduct", "Home")
+                                @Html.Action("LatestProduct", "Home")
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-lg-9 col-md-7">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+</section>

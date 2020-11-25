@@ -1,0 +1,111 @@
+﻿@model TraiDoan.Models.Cart
+
+@{
+    ViewBag.Title = "ShowToCart";
+    Layout = "~/Views/Shared/_layoutchung.cshtml";
+}
+
+<div class="container">
+    <h2>GIỎ HÀNG</h2>
+
+    @if (Model != null)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Image</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Price Sum</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Items)
+                {
+                    double total = Convert.ToDouble(item._shopping_product.UnitPrice * item._shopping_quantity);
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(model => item._shopping_product.NameProduct)
+                        </td>
+                        <td>
+                            <img src="@Url.Content(item._shopping_product.Image)" style="width:100px;height:100px;" />
+                        </td>
+                        <td>
+                            $@Html.DisplayFor(model => item._shopping_product.UnitPrice)
+                        </td>
+                        <td>
+                            @using (Html.BeginForm("Update_Quantity_Cart", "ShoppingCart"))
+                            {
+                                <input type="hidden" value="@item._shopping_product.IDProduct" name="ID_Product" />
+                                <input type="number" value="@item._shopping_quantity" name="Quantity" />
+                                <input type="submit" value="Update Quantity" />
+                            }
+
+                        </td>
+                        <td>Total:$@total</td>
+                        <td>
+                            <a href="/ShoppingCart/RemoveCart/@item._shopping_product.IDProduct">Remove</a>
+                        </td>
+                    </tr>
+
+                }
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2"></td>
+                    <td colspan="4">
+                        @using (Html.BeginForm("CheckOut", "ShoppingCart"))
+                        {
+                            <table>
+                                <tr></tr>
+                                <tr>
+                                    <td>Namecus:</td>
+                                    <td>
+                                        <input type="text" name="Namecus" placeholder="nhap ten" required />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td> Adresscus:</td>
+                                    <td>
+                                        <input type="text" name="Adresscus" placeholder="nhap dia chi" required />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Phonecus:
+                                    </td>
+                                    <td>
+                                        <input type="number" name="Phonecus" placeholder="sodienthoai" required />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        AddressDeli:
+                                    </td>
+                                    <td>
+                                        <input type="text" name="AddressDeli" placeholder="nhap ghi chu" required />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td><input type="submit" value="CheckOut" class="btn btn-success" required /> </td>
+                                </tr>
+
+                            </table>
+                            @*<button type="submit" value="CheckOut" >Submit</button>*@
+                        }
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="5" style="text-align:right;">
+                        Sum Total : $@Model.Total_Monney()
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+        <a href="/Home/Index" class="primary-btn cart-btn">CONTINUE SHOPPING</a>
+    }
+</div>

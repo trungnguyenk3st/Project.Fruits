@@ -1,0 +1,85 @@
+﻿@model IEnumerable<TraiDoan.Models.Products>
+
+@{
+    ViewBag.Title = "Products";
+    //Layout = "~/Views/Shared/_LayProdu.cshtml";
+}
+@{
+    List<string> a = new List<string>(); //category product
+    List<string> b = new List<string>(); // loc category
+    List<string> c = new List<string>(); //img sanpham
+    List<int> d = new List<int>(); // product
+}
+@foreach (var item in Model)
+{
+    a.Add(item.Category.NameCategory);
+    d.Add(item.IDCategory);
+    for (int i = 0; i < a.Count; i++)
+    {
+        if (b.Contains(a[i]) == false)
+        {
+            b.Add(a[i]);
+            c.Add(item.Image.Replace("~/Content", "/Content"));
+        }
+    }
+}
+@{ int dem = 0;
+    foreach (var item in Model)
+    {
+        dem++;
+    }}
+<section class="breadcrumb-section set-bg" data-setbg="/Content/img/breadcrumb.jpg" style="background-size: auto;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h2>Organi Shop</h2>
+                    <div class="breadcrumb__option">
+                        <a href="/Home/Index">Home</a>
+                        <span>Shop</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="product__discount">
+    <div class="section-title product__discount__title">
+        <h2>Sale Off</h2>
+    </div>
+    <div class="row" style="margin: 20px">
+        <div class="product__discount__slider owl-carousel">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4" id="@item.IDProduct">
+                    <div class="product__discount__item">
+                        <div class="product__discount__item__pic set-bg"
+                             data-setbg="@item.Image.Replace("~/Co", "/Co")">
+                            <div class="product__discount__percent">-20%</div>
+                            <ul class="product__item__pic__hover">
+                                <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                                <li><a href="/Home/Details/@item.IDProduct"><i class="fa fa-retweet"></i></a></li>
+                                <li><a href="/ShoppingCart/AddtoCart_shop/@item.IDProduct" onclick="myFunction()"><i class="fa fa-shopping-cart"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__discount__item__text">
+                            <span>@item.Category.NameCategory</span>
+                            <h5><a href=" @Url.Action("Details", "Products", new { id = item.IDProduct })">@item.NameProduct</a></h5>
+                            <div class="product__item__price">
+                                $@{double sale = item.UnitPrice - (item.UnitPrice * 20 / 100);}@Convert.ToInt32(sale)<span>$@item.UnitPrice</span>
+                            </div>
+                        </div>
+                        <script>
+                            function myFunction() {
+                                alert("Đã thêm vào giỏ");
+                            }
+                        </script>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>
+

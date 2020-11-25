@@ -1,0 +1,92 @@
+﻿@*@model IEnumerable<TraiDoan.Models.Products>*@
+@model PagedList.IPagedList<TraiDoan.Models.Products>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_LayProdu.cshtml";
+}
+@{ int dem = 0;
+    foreach (var item in Model)
+    {
+        dem++;
+    }}
+
+@Html.Action("productdefault", "Home")
+
+
+
+<div class="filter__item">
+    @using (Html.BeginForm("searchproduct", "Home", FormMethod.Get))
+    {
+        <div style="text-align:center;" >
+            <p>
+                Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new {@style= "border: 1px solid darkgray;margin: -6px; " })
+                <input class="site-btn" type="submit" value="Search" style="padding: 5px;" />
+            </p>
+        </div>
+    }
+    <div class="row" style="padding:20px;">
+        <div class="col-lg-4 col-md-5" style="border: 1px solid lightgray;border-bottom: none; border-right: none;box-shadow: -1px 2px 8px 0px lightgrey;">
+            <div class="filter__sort" >
+                <div style="display:flex">
+                    Sort By
+                    <ul class="" style="display:flex;text-decoration:none;text-align:center;list-style:none;">
+                        <li class="" style="margin-left:20px; ">
+                            @Html.ActionLink("Tên", "searchproduct", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter }, new { @style = "Color:blue" })
+                        </li>
+                        <li style="margin-left:20px;">
+                            @Html.ActionLink("Giá", "searchproduct", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter }, new { @style = "Color:blue" })
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-4" style="margin:auto;box-shadow: inset 0px -1px 10px lightgrey;">
+            <div class="filter__found">
+                <h6>
+                    <span> @dem </span> Products found
+                </h6>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-3">
+            <div class="filter__option">
+                <span class="icon_grid-2x2"></span>
+                <span class="icon_ul"></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="row container" style="border-left: 1px solid lightgray;border-top: 1px solid lightgray;padding-top: 10px;box-shadow: 1px 1px 13px 1px lightgrey;">
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-4 col-md-6 col-sm-6 mix" data-price="@item.UnitPrice" id="@item.IDProduct" >
+            <div class="product__item">
+                <div class="product__item__pic set-bg" data-setbg="@item.Image.Replace("~/Con","/Con")">
+                    <ul class="product__item__pic__hover">
+                        <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                        <li><a href="/Home/Details/@item.IDProduct"><i class="fa fa-retweet"></i></a></li>
+                        <li><a href="/ShoppingCart/AddtoCart_shop/@item.IDProduct" onclick="myFunction()"><i class="fa fa-shopping-cart"></i></a></li>
+                    </ul>
+                </div>
+                <div class="product__item__text">
+                    <h6><a href="#">@item.NameProduct</a></h6>
+                    <h5>$@item.UnitPrice</h5>
+                </div>
+                <script>
+                    function myFunction() {
+                        alert("Đã thêm vào giỏ");
+                    }
+                </script>
+            </div>
+        </div>
+    }
+
+</div>
+
+Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/ @Model.PageCount
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page => Url.Action("Products", new { page, minamount = ViewBag.NameSortParm, maxamount = ViewBag.DateSortParm }))
+</div>

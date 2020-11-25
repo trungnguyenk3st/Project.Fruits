@@ -1,0 +1,61 @@
+﻿@model IEnumerable<TraiDoan.Models.blog>
+
+
+@{
+    ViewBag.Title = "Blog";
+    Layout = "~/Views/Shared/_layoutchung.cshtml";
+}
+<section class="breadcrumb-section set-bg" data-setbg="/Content/img/breadcrumb.jpg " style="background-size: auto;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h2>Blog</h2>
+                    <div class="breadcrumb__option">
+                        <a href="/Home/Index">Home</a>
+                        <span>Blog</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="blog spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-5">
+                @Html.Action("blog1", "Home")
+            </div>
+            <div class="col-lg-8 col-md-7">
+                <div class="row">
+
+                    @foreach (var item in Model)
+                    {
+                        if (item.IDblogcate == ViewBag.id)
+                        {
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <div class="blog__item">
+                                <div class="blog__item__pic">
+                                    <img src="@item.img1.Replace("~/Cont", "/Cont")" alt="">
+                                </div>
+                                <div class="blog__item__text">
+                                    <ul>
+                                        <li><i class="fa fa-calendar-o"></i>@item.dateblog</li>
+                                        <li><i class="fa fa-comment-o"></i></li>
+                                    </ul>
+                                    <h5><a href="@Url.Action("Blog_Details", "Home", new { id = item.IDblog })">@item.Title</a></h5>
+                                    <p>
+                                        @item.sortcontent
+                                    </p>
+                                    <a href="#" class="blog__btn" style="bottom: 0;left: 0;position: absolute;">READ MORE <span></span></a>
+                                </div>
+                            </div>
+                        </div>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

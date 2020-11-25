@@ -1,0 +1,51 @@
+﻿@model TraiDoan.Models.OrderDetails
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Adminitrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>OrderDetails</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Order.Namecus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Order.Namecus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Products.NameProduct)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Products.NameProduct)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QuantitySale)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuantitySale)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitPriceSale)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnitPriceSale)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IDOrderDetail }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

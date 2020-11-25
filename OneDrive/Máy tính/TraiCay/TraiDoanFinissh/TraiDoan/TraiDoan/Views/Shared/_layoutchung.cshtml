@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Index";
+
+    if (Session["IDUser"] != null || Session["Admin"] != null)
+    {
+        Layout = "~/Views/Shared/_layoutxx.cshtml";
+
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+}
+
+
+@RenderBody()

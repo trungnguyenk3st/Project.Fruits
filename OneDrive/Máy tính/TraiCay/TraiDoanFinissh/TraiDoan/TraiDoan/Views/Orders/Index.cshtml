@@ -1,0 +1,86 @@
+﻿@*@model IEnumerable<TraiDoan.Models.Orders>*@
+@model PagedList.IPagedList<TraiDoan.Models.Orders>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Adminitrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("Index", "Orders", FormMethod.Get))
+{
+    <p style="text-align:center">
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" class="btn-success" />
+    </p>
+}
+<table class="table">
+    <tr>
+
+        <th>
+            <div class="btn-warning">@Html.ActionLink("Tên", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })</div>
+
+            <div class="btn-default"> @Html.ActionLink("Ngày", "Index", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter })  </div>
+        </th>
+    </tr>
+    <tr>
+        <th>
+            OrderDate
+        </th>
+        <th>
+            Namecus
+        </th>
+        <th>
+            Adresscus
+        </th>
+        <th>
+            Phonecus
+        </th>
+        <th>
+            Ghi chu
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Namecus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adresscus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phonecus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdressDelivery)
+            </td>
+            <td style="display:flex">
+                <a class="btn btn-warning" href="@Url.Action("Edit","Orders",new { id=item.IDorder})">Edit</a>
+                <a class="btn btn-primary" href="@Url.Action("Details","Orders",new { id=item.IDorder})">Detail</a>
+                @*<a class="btn btn-danger" href="@Url.Action("Delete","Products",new {id=item.IDProduct})">Delete</a>*@
+                @using (Html.BeginForm("Delete", "Orders", new { id = item.IDorder }, FormMethod.Post))
+                {
+                    <input type="submit" value="Delete" class="btn btn-danger" />
+                    @Html.AntiForgeryToken()
+
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

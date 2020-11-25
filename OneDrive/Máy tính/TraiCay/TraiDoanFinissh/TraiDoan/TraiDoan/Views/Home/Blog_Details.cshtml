@@ -1,0 +1,153 @@
+﻿@model TraiDoan.Models.blog
+@{
+    ViewBag.Title = "Blog_Details";
+    Layout = "~/Views/Shared/_layoutchung.cshtml";
+}
+
+
+
+
+
+<section class="blog-details-hero set-bg" data-setbg="/Content/img/blog/details/details-hero.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="blog__details__hero__text">
+                    <h2>@Model.Title</h2>
+                    <ul>
+                        <li>By @Model.author</li>
+                        <li>@Model.dateblog</li>
+                        <li>@Model.comment</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="blog-details spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-5 order-md-1 order-2">
+                @Html.Action("blog1", "Home")
+            </div>
+
+            <div class="col-lg-8 col-md-7 order-md-1 order-1">
+                <div class="blog__details__text">
+                    <img src="@Model.img1.Replace("~/Cont","/Cont")" alt="anhr1" style="width:100%;height:300px">
+                    <p>
+                        @Model.content
+                    </p>
+                    <h3>
+                        @Model.Title
+                    </h3>
+                    <img src="@Model.img2.Replace("~/Cont","/Cont")" alt="anhr2" style="width:100%;">
+                    <p>
+                        @Model.content
+                    </p>
+                </div>
+                <div class="blog__details__content">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="blog__details__author">
+                                <div class="blog__details__author__pic">
+                                    <img src="@Model.img3.Replace("~/Cont","/Cont")" alt="anh3">
+                                </div>
+                                <div class="blog__details__author__text">
+                                    <h6>Tac gia</h6>
+                                    <span>@Model.author</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="blog__details__widget">
+                                <ul>
+                                    <li><span>Categories:</span>@Html.DisplayFor(mmodel => mmodel.blogcate.Nameblogcate)</li>
+                                    <li><span>Tags:</span> All, Trending, Cooking, Healthy Food, Life Style</li>
+                                </ul>
+                                <div class="blog__details__social">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-google-plus"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    <a href="#"><i class="fa fa-envelope"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="related-blog spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title related-blog-title">
+                    <h2>Post You May Like</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="blog__item">
+                    <div class="blog__item__pic">
+                        <img src="@Model.img2.Replace("~/Cont","/Cont")" alt="">
+                    </div>
+                    <div class="blog__item__text">
+                        <ul>
+                            <li><i class="fa fa-calendar-o"></i></li>
+                            <li><i class="fa fa-comment-o"></i></li>
+                        </ul>
+                        <h5><a href="@Url.Action("Blog_Details","Home", new {id = Model.IDblog+1 })">Cooking tips make cooking simple</a></h5>
+                        <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="blog__item">
+                    <div class="blog__item__pic">
+                        <img src="@Model.img3.Replace("~/Cont","/Cont")" alt="">
+                    </div>
+                    <div class="blog__item__text">
+                        <ul>
+                            <li><i class="fa fa-calendar-o"></i></li>
+                            <li><i class="fa fa-comment-o"></i></li>
+                        </ul>
+                        <h5><a href="@Url.Action("Blog_Details","Home", new {id = Model.IDblog-1 })">6 ways to prepare breakfast for 30</a></h5>
+                        <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="blog__item">
+                    <div class="blog__item__pic">
+                        <img src="@Model.img1.Replace("~/Cont","/Cont")" alt="">
+                    </div>
+                    <div class="blog__item__text">
+                        <ul>
+                            <li><i class="fa fa-calendar-o"></i></li>
+                            <li><i class="fa fa-comment-o"></i></li>
+                        </ul>
+                        <h5><a href="@Url.Action("Blog_Details", "Home", new { id = Model.IDblog +1 })">Visit the clean farm in the US</a></h5>
+                        <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

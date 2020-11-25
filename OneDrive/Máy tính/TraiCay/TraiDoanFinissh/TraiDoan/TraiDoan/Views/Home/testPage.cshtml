@@ -1,0 +1,75 @@
+﻿
+@model IEnumerable<TraiDoan.Models.Products>
+<h4>Top Product</h4>
+<div class="featured__controls">
+    <ul>
+        <li data-filter=".top1">Hang1</li>
+        <li data-filter=".top2">Hang2</li>
+        <li data-filter=".top3">Hang3</li>
+    </ul>
+</div>
+<div class="row featured__filter" style="max-height: 130px;overflow:hidden">
+    <div class="mix top1">
+        <div class="latest-prdouct__slider__item">
+            @foreach (var item in Model)
+            {
+                if (item.IDProduct == ViewBag.st1)
+                {
+                    <div class="latest-prdouct__slider__item">
+                        <a href="#" class="latest-product__item">
+                            <div class="latest-product__item__pic" style="height:110px; width:150px;">
+                                <img src="@item.Image.Replace("~/Cont", "/Cont")" alt="">
+                            </div>
+                            <div class="latest-product__item__text">
+                                <h6>@item.NameProduct</h6>
+                                <span>$@item.UnitPrice</span>
+                            </div>
+                        </a>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+    <div class="mix top2">
+        <div class="latest-prdouct__slider__item">
+            @foreach (var item in Model)
+            {
+                if (item.IDProduct == ViewBag.th2)
+                {
+                    <div class="latest-prdouct__slider__item">
+                        <a href="#" class="latest-product__item">
+                            <div class="latest-product__item__pic" style="height:110px; width:150px;">
+                                <img src="@item.Image.Replace("~/Cont", "/Cont")" alt="">
+                            </div>
+                            <div class="latest-product__item__text">
+                                <h6>@item.NameProduct</h6>
+                                <span>$@item.UnitPrice</span>
+                            </div>
+                        </a>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+    <div class="mix top3">
+        <div class="latest-prdouct__slider__item">
+            @foreach (var item in Model)
+            {
+                if (item.IDProduct == ViewBag.rd3)
+                {
+                    <div class="latest-prdouct__slider__item">
+                        <a href="#" class="latest-product__item">
+                            <div class="latest-product__item__pic" style="height:110px; width:150px;">
+                                <img src="@item.Image.Replace("~/Cont", "/Cont")" alt="">
+                            </div>
+                            <div class="latest-product__item__text">
+                                <h6>@item.NameProduct</h6>
+                                <span>$@item.UnitPrice</span>
+                            </div>
+                        </a>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>

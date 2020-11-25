@@ -1,0 +1,84 @@
+﻿@*@model IEnumerable<TraiDoan.Models.blog>*@
+@model PagedList.IPagedList<TraiDoan.Models.blog>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Adminitrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("Index", "Products", FormMethod.Get))
+{
+    <p style="text-align:center">
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" class="btn-success" />
+    </p>
+}
+<table class="table">
+    <tr>
+        <th>
+            <div class="btn-warning">@Html.ActionLink("Title", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })</div>
+
+            <div class="btn-default"> @Html.ActionLink("Ngày", "Index", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter })  </div>
+
+            <div class="btn-default"> @Html.ActionLink("Danh mục", "Index", new { sortOrder = ViewBag.namecate, currentFilter = ViewBag.CurrentFilter })  </div>
+        </th>
+    </tr>
+    <tr>
+        <th>
+            Category
+        </th>
+        <th>
+            Title
+        </th>
+        <th>
+            author
+        </th>
+        <th>
+            dateblog
+        </th>
+        <th>
+            img1
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr style="font-size:20px">
+            <td>
+                @Html.DisplayFor(modelItem => item.blogcate.Nameblogcate)
+            </td>
+            <td>
+                @Html.ActionLink(item.Title, "Details", new { id = item.IDblog }) |
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dateblog)
+            </td>
+            <td>
+                <img src="@Url.Content(item.img1)" style="margin:10px;height:50px;width:50px;" />
+            </td>
+            <td style="display:flex">
+                <a class="btn btn-warning" href="@Url.Action("Edit","blogs",new { id=item.IDblog})">Edit</a>
+                @using (Html.BeginForm("Delete", "blogs", new { id = item.IDblog }, FormMethod.Post))
+                {
+                    <input type="submit" value="Delete" class="btn btn-danger" />
+                    @Html.AntiForgeryToken()
+
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

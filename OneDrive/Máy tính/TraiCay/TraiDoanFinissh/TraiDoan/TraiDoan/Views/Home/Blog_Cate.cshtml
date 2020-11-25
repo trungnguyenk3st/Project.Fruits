@@ -1,0 +1,8 @@
+﻿@model IEnumerable<TraiDoan.Models.blog_category>
+
+@foreach (var item in Model)
+{
+    <li><a href="/Home/Blog_ParCate/@item.IDblogcate">@item.Nameblogcate</a></li>
+}
+
+

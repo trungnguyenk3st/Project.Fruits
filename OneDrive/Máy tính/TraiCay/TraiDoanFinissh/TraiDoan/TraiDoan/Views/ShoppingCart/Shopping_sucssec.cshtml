@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Shopping_sucssec";
+    Layout = "~/Views/Shared/_layoutchung.cshtml";
+    var time = DateTime.Now.Day + 3;
+    var month = DateTime.Now.Month;
+
+}
+<div style="text-align:center; text-align: center;
+    height: 220px;
+    margin: auto;">
+    <h2>Shopping_sucssec</h2>
+    <h2>Đã mua hàng thành công, Sản phẩm sẽ được giao sớm nhất vào ngày @time/@month </h2>
+    <div>
+        <a  style="color:black;    
+                    margin: auto;
+                     margin-top: 50px;
+                        padding: 20px;
+                            max-width: 20%;
+                               display: block;" class="btn-success" href="@Url.Action("Index","Home")"> tiep tuc </a>
+    </div>
+    
+</div>

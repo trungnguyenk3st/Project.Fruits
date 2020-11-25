@@ -1,0 +1,65 @@
+﻿@model TraiDoan.Models.Orders
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Adminitrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Orders</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Namecus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Namecus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Adresscus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Adresscus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phonecus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phonecus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AdressDelivery)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdressDelivery)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

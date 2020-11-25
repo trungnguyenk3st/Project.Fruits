@@ -1,0 +1,928 @@
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\WebGrease.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.InitialCreate.resources
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.add_User.resources
+D:\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\WebGrease.dll
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.Data1.resources
+D:\home\2020\WEB\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\WebGrease.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.Data1.resources
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+D:\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\WebGrease.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.Data1.resources
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+D:\home\2020\WEB\WebTRaicayNew moinhat\WebTRaicayNew moinhat\WebTRaicayNew xxxxxx\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\TraiDoan.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\EntityFramework.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\WebGrease.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\EntityFramework.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.Data1.resources
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+D:\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\TraiDoan.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\EntityFramework.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\WebGrease.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\EntityFramework.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.add_new.resources
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\PagedList.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\PagedList.Mvc.dll
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\PagedList.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\bin\PagedList.Mvc.xml
+D:\home\2020\WEB\WebTRaicayNew moinhat 86\WebTRaicayNew moinhat 86\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\TraiDoan.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\PagedList.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\PagedList.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.add_new.resources
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+C:\Users\Admin\Desktop\Năm 3\HK2\Đồ án 1\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.Mvc.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\WebGrease.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.Mvc.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.add_new.resources
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.add_newtable.resources
+D:\home\2020\WEB\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.add_blog_IDblogcate.resources
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.Mvc.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\WebGrease.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.Mvc.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.newww.resources
+D:\home\2020\WEB\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.Mvc.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\WebGrease.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.Mvc.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.Init.resources
+C:\Users\Trung\Downloads\TraiDoanFinissh1231321321\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.dll.config
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\TraiDoan.pdb
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.exe
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.exe.config
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csc.rsp
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.exe
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.exe.config
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\csi.rsp
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.AppContext.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Console.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Compression.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Claims.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.ValueTuple.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.exe
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.exe.config
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\vbc.rsp
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Antlr3.Runtime.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Newtonsoft.Json.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.Mvc.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Helpers.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Mvc.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Optimization.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Razor.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\WebGrease.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\EntityFramework.SqlServer.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\PagedList.Mvc.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Helpers.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Mvc.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Optimization.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.Razor.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\System.Web.WebPages.Razor.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Newtonsoft.Json.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Antlr3.Runtime.pdb
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csprojAssemblyReference.cache
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.Migrations.Init.resources
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.GenerateResource.cache
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CoreCompileInputs.cache
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.csproj.CopyComplete
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.dll
+C:\Users\Trung\OneDrive\Documents\TraiCay\TraiDoanFinissh\TraiDoan\TraiDoan\obj\Debug\TraiDoan.pdb

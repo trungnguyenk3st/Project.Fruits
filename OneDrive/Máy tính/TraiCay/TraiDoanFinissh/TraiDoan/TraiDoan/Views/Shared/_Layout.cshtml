@@ -1,0 +1,197 @@
+﻿@{ 
+//Layout = "~/Views/Shared/_layoutxx.cshtml";
+}
+<!DOCTYPE html>
+<html lang="">
+@RenderSection("scripts", required: false)
+<head>
+    <title>Doan</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet">
+    <link href="~/fonts/ElegantIcons.svg" />
+
+    <script src="~/Scripts/Script.js"></script>
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/Content/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/css/style.css" type="text/css">
+    <link href="~/Content/css/PagedList.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/cc9c4f24fb.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- Page Preloder -->
+    @*<div id="preloder">
+            <div class="loader"></div>
+        </div>*@
+
+    <!-- Humberger Begin -->
+    <div class="humberger__menu__overlay"></div>
+    <div class="humberger__menu__wrapper">
+        <div class="humberger__menu__logo">
+            <a href="#"><img src="~/Content/img/logo1.png" alt="" style="width:50%;"></a>
+        </div>
+        <div class="humberger__menu__cart">
+            <ul>
+
+                <li><a href="/ShoppingCart/ShowToCart"><i class="fa fa-shopping-bag"></i>@Html.Action("BagCart", "ShoppingCart")</a></li>
+
+            </ul>
+            <div class="header__cart__price">item: @Html.Action("totalview", "ShoppingCart")</div>
+        </div>
+        <div class="humberger__menu__widget">
+
+            <div class="header__top__right__auth">
+                <a href="~/Login/Index"><i class="fa fa-user"></i> Login</a>
+            </div>
+        </div>
+        <nav class="humberger__menu__nav mobile-menu">
+            <ul>
+                <li class="active"><a href="~/Home/Index">Home</a></li>
+                <li><a href="~/Home/Products">Shop</a></li>
+
+                <li><a href="/Home/Blog">Blog</a></li>
+                <li><a href="/Home/Contacts">Contact</a></li>
+            </ul>
+        </nav>
+        <div id="mobile-menu-wrap"></div>
+        <div class="header__top__right__social">
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-linkedin"></i></a>
+            <a href="#"><i class="fa fa-pinterest-p"></i></a>
+        </div>
+
+    </div>
+    <!-- Humberger End -->
+    <!-- Header Section Begin -->
+    <header class="header">
+        <div class="header__top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="header__top__right">
+                            <div class="header__top__right__social">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="#"><i class="fa fa-pinterest-p"></i></a>
+                            </div>
+
+                            <div class="header__top__right__auth">
+                                <a href="~/Login"><i class="fa fa-user"></i> Login</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="header__logo">
+                        <a href="~/Home/Index"><img src="~/Content/img/logo1.png" alt="" style="width:50%;"></a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <nav class="header__menu">
+                        <ul>
+                            <li class="active"><a href="~/Home/Index">Home</a></li>
+                            <li><a href="~/Home/Products">Shop</a></li>
+
+                            <li><a href="/Home/Blog">Blog</a></li>
+                            <li><a href="/Home/Contacts">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-lg-3">
+                    <div class="header__cart">
+                        <ul>
+
+                            <li><a href="/ShoppingCart/ShowToCart"><i class="fa fa-shopping-bag"></i> @Html.Action("BagCart", "ShoppingCart")  </a></li>
+                        </ul>
+                        <div class="header__cart__price">item: @Html.Action("totalview", "ShoppingCart")</div>
+                    </div>
+                </div>
+            </div>
+            <div class="humberger__open">
+                <i class="fa fa-bars"></i>
+            </div>
+        </div>
+    </header>
+    <!-- Header Section End -->
+    <div>
+        @RenderBody()
+    </div>
+
+    <div>
+        <!-- Footer Section Begin -->
+        <footer class="footer spad">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="footer__about">
+                            <div class="footer__about__logo">
+                                <a href="/Home/Index"><img src="/Content/img/logo1.png" style="width:50%;" alt=""></a>
+                            </div>
+                            <ul>
+                                <li>Address:SVH-Q10</li>
+                                <li>Phone: 0987654321</li>
+                                <li>Email: help-098765432@gmail.com</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-1">
+
+                    </div>
+                    <div class="col-lg-4 col-md-12">
+                        <div class="footer__widget">
+                            <h6>Join Our Newsletter Now</h6>
+                            <p>Get E-mail updates about our latest shop and special offers.</p>
+                                @using (Html.BeginForm("CheckContact", "ShoppingCart"))
+                                {
+                                    <input type="text" name="Cemail" placeholder="Enter your mail">
+                                    <button type="submit" class="site-btn">Subscribe</button>
+                                }
+
+                            <div class="footer__widget__social">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="#"><i class="fa fa-pinterest"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Footer Section End -->
+    </div>
+
+    <!-- Js Plugins -->
+    <!-- Js Plugins -->
+    <script src="~/Content/js/ImageUpload.js"></script>
+    <script src="~/Content/js/jquery-3.3.1.min.js"></script>
+    <script src="~/Content/js/bootstrap.min.js"></script>
+    <script src="~/Content/js/jquery.nice-select.min.js"></script>
+    <script src="~/Content/js/jquery-ui.min.js"></script>
+    <script src="~/Content/js/jquery.slicknav.js"></script>
+    <script src="~/Content/js/mixitup.min.js"></script>
+    <script src="~/Content/js/owl.carousel.min.js"></script>
+    <script src="~/Content/js/main.js"></script>
+
+</body>
+</html>

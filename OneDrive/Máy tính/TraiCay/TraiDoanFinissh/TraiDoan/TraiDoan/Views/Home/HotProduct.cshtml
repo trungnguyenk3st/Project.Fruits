@@ -1,0 +1,25 @@
+﻿@model IEnumerable<TraiDoan.Models.Products>
+
+@*@model IEnumerable<TraiDoan.Models.OrderDetails>*@
+
+
+
+<div class="latest-prdouct__slider__item">
+    @foreach (var item in Model)
+    {
+        if (item.IDProduct == ViewBag.st1 || item.IDProduct == ViewBag.th2 || item.IDProduct == ViewBag.rd3)
+        {
+            <div class="latest-prdouct__slider__item">
+                <a href="#" class="latest-product__item">
+                    <div class="latest-product__item__pic" style="height:110px; width:150px;">
+                        <img src="@item.Image.Replace("~/Cont", "/Cont")" alt="">
+                    </div>
+                    <div class="latest-product__item__text">
+                        <h6>@item.NameProduct</h6>
+                        <span>$@item.UnitPrice</span>
+                    </div>
+                </a>
+            </div>
+        }
+    }
+</div>

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<TraiDoan.Models.blog>
+
+
+
+<div class="blog__sidebar">
+    <div class="blog__sidebar__search">
+        <form action="#">
+            <input type="text" placeholder="Search...">
+            <button type="submit"><span class="fa fa-search"></span></button>
+        </form>
+    </div>
+    <div class="blog__sidebar__item">
+        <h4>Categories</h4>
+        <ul>
+            @Html.Action("Blog_cate", "Home")
+        </ul>
+    </div>
+    <div class="blog__sidebar__item">
+        <h4>Recent News</h4>
+        <div class="blog__sidebar__recent">
+            @foreach (var item in Model)
+            {
+                <a href="@Url.Action("Blog_Details", "Home", new { id = item.IDblog })" class="blog__sidebar__recent__item">
+                    <div class="blog__sidebar__recent__item__pic">
+                        <img src="@item.img1.Replace("~/Cont","/Cont")" style="max-width:100px;" alt="">
+                    </div>
+                    <div class="blog__sidebar__recent__item__text">
+                        <h6>@item.Title</h6>
+                        <span>@item.dateblog</span>
+                    </div>
+                </a>
+            }
+
+        </div>
+    </div>
+    <div class="blog__sidebar__item">
+        <h4>tag</h4>
+        <div class="blog__sidebar__item__tags">
+           @foreach(var item in Model)
+           {
+               <span class="fa fa-tag">@item.blogcate.Nameblogcate</span>
+           }
+        </div>
+    </div>
+</div>

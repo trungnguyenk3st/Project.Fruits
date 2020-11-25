@@ -1,0 +1,84 @@
+﻿@*@model IEnumerable<TraiDoan.Models.Products>*@
+@model PagedList.IPagedList<TraiDoan.Models.Products>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+
+    Layout = "~/Views/Shared/_layoutchung.cshtml";
+}
+<div>
+    <!-- Hero Section Begin -->
+    <section class="hero" id="HomeSearch">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="hero__categories">
+                        <div class="hero__categories__all">
+                            <i class="fa fa-bars"></i>
+                            <span>All departments</span>
+                        </div>
+                        <ul>
+                            @Html.Action("categoryPartial", "Home")
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-9">
+                    <div class="hero__search">
+                        <div class="hero__search__form">
+                            @using (Html.BeginForm("Homesearch", "Home"))
+                            {
+                                <div class="hero__search__categories">
+                                    All Categories
+                                </div>
+                                <input type="text" id="Search" name="Search" placeholder="What do yo u need?">
+                                <button type="submit" class="site-btn" value="Search">SEARCH</button>
+                            }
+                        </div>
+                        <div class="hero__search__phone">
+                            <div class="hero__search__phone__icon">
+                                <i class="fa fa-phone"></i>
+                            </div>
+                            <div class="hero__search__phone__text">
+                                <h5>+0987654321</h5>
+                                <span>support 24/7</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="margin-bottom:50px;">
+                        <h2>Tìm thấy các sản phẩm khớp với từ khoá: @this.ViewBag.erro</h2>
+                    </div>
+
+                    <div class="row" >
+                        @foreach (var item in Model)
+                        {
+                            <div class="col-lg-4 col-md-6 col-sm-6">
+                                <div class="product__item">
+                                    <div class="product__item__pic set-bg" data-setbg="@item.Image.Replace("~/Con","/Con")">
+                                        <ul class="product__item__pic__hover">
+                                            <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                                            <li><a href="/ShoppingCart/AddtoCart/@item.IDProduct"><i class="fa fa-shopping-cart"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="product__item__text">
+                                        <h6><a href="#">@item.NameProduct</a></h6>
+                                        <h5>$@item.UnitPrice</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/ @Model.PageCount
+                    <div class="product__pagination">
+                        @Html.PagedListPager(Model, page => Url.Action("HomeSearch", new { page, currentFilter = ViewBag.CurrentFilter }),
+                                                        PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions()
+                                                        { HttpMethod = "GET", UpdateTargetId = "HomeSearch" }))
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hero Section End -->
+</div>
+

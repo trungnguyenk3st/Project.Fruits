@@ -1,0 +1,39 @@
+﻿@model IEnumerable<TraiDoan.Models.blog_category>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Adminitrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nameblogcate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr >
+        <td>
+            @Html.ActionLink(item.Nameblogcate, "Details", new { id = item.IDblogcate })
+        </td>
+        <td style="display:flex"> 
+            <a class="btn btn-warning" href="@Url.Action("Edit","blog_category",new { id=item.IDblogcate})">Edit</a>
+
+            @using (Html.BeginForm("Delete", "blog_category", new { id = item.IDblogcate }, FormMethod.Post))
+            {
+                <input type="submit" value="Delete" class="btn btn-danger" />
+                @Html.AntiForgeryToken()
+
+            }
+        </td>
+    </tr>
+}
+
+</table>

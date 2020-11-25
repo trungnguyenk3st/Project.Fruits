@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraiDoan", "TraiDoan\TraiDoan.csproj", "{37E28567-2009-4D59-A165-96A3035A8F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E28567-2009-4D59-A165-96A3035A8F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E28567-2009-4D59-A165-96A3035A8F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E28567-2009-4D59-A165-96A3035A8F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E28567-2009-4D59-A165-96A3035A8F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7659127-23D8-4989-9086-CC6866FAC96D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,148 @@
+﻿
+@{
+    ViewBag.Title = "Contacts";
+    Layout = "~/Views/Shared/_layoutchung.cshtml";
+}
+
+
+
+
+<!-- Header Section End -->
+<!-- Hero Section Begin -->
+<section class="hero hero-normal">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="hero__categories">
+                    <div class="hero__categories__all">
+                        <i class="fa fa-bars"></i>
+                        <span>All departments</span>
+                    </div>
+                    <ul>
+                        @Html.Action("categoryPartial", "Home")
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-9">
+                <div class="hero__search">
+                    <div class="hero__search__form">
+                        @using (Html.BeginForm("Homesearch", "Home"))
+                        {
+                            <div class="hero__search__categories">
+                                All Categories
+                            </div>
+                            <input type="text" id="Search" name="Search" placeholder="What do yo u need?">
+                            <button type="submit" class="site-btn" value="Search">SEARCH</button>
+                        }
+                    </div>
+                    <div class="hero__search__phone">
+                        <div class="hero__search__phone__icon">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <div class="hero__search__phone__text">
+                            <h5>+0987654321</h5>
+                            <span>support 24/7 time</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Hero Section End -->
+<!-- Breadcrumb Section Begin -->
+<section class="breadcrumb-section set-bg" data-setbg="/Content/img/breadcrumb.jpg" style="background-size: auto;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h2>Contact Us</h2>
+                    <div class="breadcrumb__option">
+                        <a href="/Home/Index">Home</a>
+                        <span>Contact Us</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb Section End -->
+<!-- Contact Section Begin -->
+<section class="contact spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-6 text-center">
+                <div class="contact__widget">
+                    <span class="fa fa-phone"></span>
+                    <h4>Phone</h4>
+                    <p>+0987654321</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 text-center">
+                <div class="contact__widget">
+                    <span class="fa fa-address-book"></span>
+                    <h4>Address</h4>
+                    <p>155 Suvanhanh q10 Hochiminh</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 text-center">
+                <div class="contact__widget">
+                    <span class="fa fa-clock-o"></span>
+                    <h4>Open time</h4>
+                    <p>?? to ??</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 text-center">
+                <div class="contact__widget">
+                    <span class="fa fa-mail-reply"></span>
+                    <h4>Email</h4>
+                    <p>chicken24h@hufflit.com</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Contact Section End -->
+<!-- Map Begin -->
+<div class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.4554124263336!2d106.66500971462258!3d10.776389692321574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752fddaecc2423%3A0x4863978f744589f2!2zxJHhuqFpIGjhu41jIG5nb-G6oWkgbmfhu68gdGluIGjhu41j!5e0!3m2!1svi!2s!4v1592492394067!5m2!1svi!2s"
+            height="500" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <div class="map-inside">
+        <i class="fa fa-map-marker"></i>
+        <div class="inside-widget">
+            <h4>Đại học Ngoại Ngữ - Tin Học</h4>
+            <ul>
+                <li>Phone: 028 3868 1477</li>
+                <li>Add: Quận 10, Hồ Chí Minh</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Map End -->
+<!-- Contact Form Begin -->
+<div class="contact-form spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="contact__form__title">
+                    <h2>Leave Message</h2>
+                </div>
+            </div>
+        </div>
+        @using (Html.BeginForm("CheckContact", "ShoppingCart"))
+        {
+            <div class="row">
+                <div class="col-lg-6 col-md-6">
+                    <input type="text" name="Cname" placeholder="Your name">
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <input type="text" name="Cemail" placeholder="Your Email">
+                </div>
+                <div class="col-lg-12 text-center">
+                    <textarea placeholder="Your message" name="Cdata"></textarea>
+                    <button type="submit" class="site-btn">SEND MESSAGE</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>

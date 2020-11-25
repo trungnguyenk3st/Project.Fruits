@@ -1,0 +1,7 @@
+﻿@model IEnumerable<TraiDoan.Models.Category>
+
+@foreach (var item in Model)
+{
+    <li><a href="/Home/parProDefault/@item.IDCategory">@item.NameCategory</a></li>
+}
+
